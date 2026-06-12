@@ -13,6 +13,7 @@
 - Python Backend Development
 - Web Scraping 
 - AI & Machine Learning
+- Trying to improve English
 
 ## Experience
 
@@ -24,5 +25,7 @@
 ## My Skills
 
 [![My Skills](https://skillicons.dev/icons?i=py,php,js,html,css,docker,sqlite,gitlab,github,git,linux)](https://skillicons.dev)
-
-> Python is my strongest skill. I have worked with PHP, Laravel, and JavaScript in the past and can understand and navigate existing codebases, but I do not consider myself highly experienced in these technologies.
+<br><hr>
+> Python is my strongest skill,
+> I have worked wit **PHP, Laravel, JavaScript & VueJs** in the past and can understand and navigate existing codebases,
+> but I do not consider myself highly experienced in these technologies
