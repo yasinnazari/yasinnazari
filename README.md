@@ -25,3 +25,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=py,php,js,html,css,docker,sqlite,gitlab,github,git,linux)](https://skillicons.dev)
 
+> Python is my strongest skill. I have worked with PHP, Laravel, and JavaScript in the past and can understand and navigate existing codebases, but I do not consider myself highly experienced in these technologies.
