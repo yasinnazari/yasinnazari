@@ -23,7 +23,7 @@
 
 ## My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,php,js,html,css,docker,postman,postgres,mysql,sqlite,sentry,gitlab,github,git,linux,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,php,js,html,css,docker,postman,postgres,mysql,sqlite,sentry,gitlab,github,git,linux)](https://skillicons.dev)
 <br><hr>
 > Python is my strongest skill,
 > I have worked wit **PHP, Laravel, JavaScript & VueJs** in the past and can understand and navigate existing codebases,
