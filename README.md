@@ -2,11 +2,11 @@
 
 ## About Me
 
-**👤 My name is Yasin Nazari **`AKA Yas`**
+**👤 My name is Yasin Nazari** **`AKA Yas`**
 
 - Backend Developer focused on Python
-- 🚀 Currently working at [Nilto.ir](https://nilto.ir)
-- 🤖 Currently learning AI & Machine Learning
+- Currently working at [Nilto.ir](https://nilto.ir)
+- Currently learning AI & Machine Learning
 
 ## Current Focus
 
