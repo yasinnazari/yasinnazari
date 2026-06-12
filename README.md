@@ -11,7 +11,6 @@
 ## Current Focus
 
 - Python Backend Development
-- Web Scraping 
 - AI & Machine Learning
 - Trying to improve English
 
