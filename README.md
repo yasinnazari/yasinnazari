@@ -1,22 +1,7 @@
-## Hi there 👋
+## Hello to everyone 👋
 
-- I'm Yasin Nazari **`AKA`** `Yas`
+- 👤 I'm Yasin Nazari **`AKA`** `Yas`
 
 - 🌱 I'm interested in **`AI`** and all things in **`Python`**, And my most of the focus right now is **`AI`**
-- 🔭 I'm currently working on **Nilto.ir**
+- 🔆 I'm currently working on **Nilto.ir** and my main experience from here !
   
-
-<!--
-**yasinnazari/yasinnazari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--  I’m currently working on ...
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
