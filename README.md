@@ -1,13 +1,27 @@
 ## Hello to everyone 👋
 
-- 👤 My name is Yasin Nazari **`AKA`** `Yas`
+## About Me
 
-- 🌱 I'm interested in **`AI`** and all things in **`Python`**, And my most of the focus right now is **`AI`**
-- 🔆 I'm currently working on [Nilto.ir](https://nilto.ir) as **Backend Developer** and my main experience from here !
-  
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <b>Telegram:</b> @Ya3inNazari
-</p>
+- 👤 My name is Yasin Nazari (`Yas`)
+- 💻 Backend Developer focused on Python
+- 🚀 Currently working at [Nilto.ir](https://nilto.ir)
+- 🤖 Currently learning AI, Data Science, and Machine Learning
+- 🐧 Linux enthusiast
 
-[![My Skills](https://skillicons.dev/icons?i=py,php,js,html,css,docker,sqlite,sentry,gitlab,github,git,apple,linux)](https://skillicons.dev)
+## Current Focus
+
+- Python Backend Development
+- Web Scraping 
+- AI & Machine Learning
+
+## Experience
+
+- Web Scraping
+- REST API Development
+- SQL Databases
+  - And...
+
+## My Skills
+
+[![My Skills](https://skillicons.dev/icons?i=py,php,js,html,css,docker,sqlite,gitlab,github,git,linux)](https://skillicons.dev)
+
