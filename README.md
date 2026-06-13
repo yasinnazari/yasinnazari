@@ -19,6 +19,7 @@
 - Web Scraping
 - REST API Development
 - SQL Databases
+- Team Work
   - And...
 
 ## My Skills
