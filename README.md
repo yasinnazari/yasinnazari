@@ -6,7 +6,7 @@
 
 - Backend Developer focused on Python
 - Currently working at [Nilto.ir](https://nilto.ir)
-- Currently learning AI & Machine Learning
+- Currently learning AI & ML
 
 ## Current Focus
 
