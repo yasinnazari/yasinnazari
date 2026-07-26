@@ -4,23 +4,22 @@
 
 **👤 My name is Yasin Nazari** **`AKA Yas`**
 
-- Backend Developer focused on Python
-- Currently working at [Nilto.ir](https://nilto.ir)
-- Currently learning AI & ML
+`›` Backend Developer focused on Python
+`›` Currently working at [Nilto.ir](https://nilto.ir)
+`›` Currently learning AI & ML
 
 ## Current Focus
 
-- Python Backend Development
-- AI & Machine Learning
-- Trying to improve English
+`›` AI & Machine Learning
+`›` Trying to improve English
 
 ## Experience
 
-- Web Scraping
-- REST API Development
-- SQL Databases
-- Team Work
-  - And...
+`›` Web Scraping
+`›` REST API Development
+`›` SQL Databases
+`›` Team Work
+`›` And...
 
 ## My Skills
 
