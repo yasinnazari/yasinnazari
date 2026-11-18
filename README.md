@@ -26,12 +26,16 @@
 
 `›` Team Work
 
+`›` Prompt Engineering
+
+`›` Vibe Coding
+
 `›` And...
 
 ## My Skills
 
 ![My Skills](https://skillicons.dev/icons?i=py,flask,php,js,html,css,docker,redis,postman,postgres,mysql,sqlite,regex,sentry,gitlab,github,git,linux)
 <br><hr>
-> Python is my strongest skill,
+> Python/Django is my strongest skill,
 > I have worked with **(PHP, Laravel), (JavaScript & VueJs)** in the past and can understand and navigate existing codebases,
 > but I do not consider myself highly experienced in these technologies
